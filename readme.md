@@ -4,6 +4,8 @@
 
 ## 문서 목록 (최근순)
 
-- [[GPyOpt]]
-- [[Bayesian Optimization]]
-- [[PyTorch]]
+- [GPyOpt](base/GPyOpt.md)
+- [Bayesian Optimization](base/Bayesian%20Optimization.md)
+- [PyTorch](base/PyTorch.md)
+- [[Tensorflow]]
+
